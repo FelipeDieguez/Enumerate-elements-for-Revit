@@ -1,5 +1,5 @@
 # Enumerate-elements-for-Revit
-Sometimes, after exporting a .tqr document to a .rvt, there is a necessity of add or remove some elements in the model, as a consequence, it is necessary enumerate element by element. Thinking about that, i tried to use a Dynamo rotine with some pyhton scripts to automatizate this process.
+Sometimes, after exporting a .tqr document to a .rvt, there is a necessity of add or remove some elements in the model, as a consequence, it is necessary renumber element by element. Thinking about that, i tried to use a Dynamo rotine with some pyhton scripts to automatizate this process.
 
 At the moment it is usefull for fundations and columns elements, i'm working to include beams and slabs also.
 
